@@ -5,4 +5,4 @@ Learning about github and licences
  2.violin
  3.flute
  4.drum
- thank you 
+ thanks 
